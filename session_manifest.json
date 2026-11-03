@@ -1,0 +1,36 @@
+[
+  {
+    "session": "session_gui",
+    "source": "Eingefügtes Markdown(1).md",
+    "source_sha256": "4f52b544d0ad5dd42c4ad7e4174bdc8eb3bdab4bafee480edec0a2e7067bbe77",
+    "rows": 193,
+    "first_second": 0.766,
+    "last_second": 20.0,
+    "status_counts": {
+      "NO_FACE": 10,
+      "NOT_CALIBRATED": 87,
+      "CALIBRATING": 20,
+      "OPEN": 47,
+      "CLOSED": 11,
+      "ALERT": 13,
+      "EYE_MEASUREMENT_UNCERTAIN_HEAD_POSE": 5
+    }
+  },
+  {
+    "session": "session_legacy",
+    "source": "Eingefügter Text (2)(1).txt",
+    "source_sha256": "d6d740fe9a5346779f9739b082c812ef63138ce4f890e7985260b73ee2bde23d",
+    "rows": 1072,
+    "first_second": 1.344,
+    "last_second": 108.609,
+    "status_counts": {
+      "NOT_CALIBRATED": 156,
+      "CALIBRATING": 604,
+      "NO_FACE": 102,
+      "CLOSED": 14,
+      "ALERT": 16,
+      "OPEN": 69,
+      "EYES_UNAVAILABLE_HEAD_POSE": 111
+    }
+  }
+]

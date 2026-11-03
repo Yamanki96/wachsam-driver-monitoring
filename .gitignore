@@ -1,0 +1,14 @@
+__pycache__/
+.venv/
+build/
+dist/
+app_log_*.csv
+eye_log_*.csv
+head_log_*.csv
+*.mp4
+*.avi
+*.aux
+*.log
+*.out
+archive/logs/
+requirements-lock.txt
